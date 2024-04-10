@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635179949019",
+    "project_id": "water-quality-monitoring-c1255",
+    "storage_bucket": "water-quality-monitoring-c1255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635179949019:android:1c6d012e55f900c27e65fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuAoXSkYppbF7hnJ5rnc_QofPctWv0mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
