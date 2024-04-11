@@ -1,16 +1,10 @@
-# flutter_application_1
+# Water Quality Monitoring App
+This mobile application is my submission to the 24hrs Solve-A-Thon'24 conducted by VIT Chennai Hostel Team.
+This is a mobile application designed to monitor water quality parameters such as Turbidity, Temperature, and Total Dissolved Solids (TDS). It fetches real-time data from a ThingSpeak channel and provides visualization of the data using line charts. Additionally, the app sends notifications when the TDS , Temperature or Turbidity exceeds a certain threshold.
 
-A new Flutter project.
+## Features
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Real-time monitoring of water quality parameters.
+- Line chart visualization for Turbidity, Temperature, and TDS values.
+- Notifications for TDS value exceeding a set threshold.
+- Simple and intuitive user interface.
